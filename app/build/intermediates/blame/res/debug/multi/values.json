@@ -1,0 +1,144 @@
+[
+    {
+        "outputFile": "C:\\Users\\Yashodhan\\AndroidStudioProjects\\SimpleDht\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 46,
+                    "endOffset": 97
+                },
+                "from": {
+                    "file": "C:\\Users\\Yashodhan\\AndroidStudioProjects\\SimpleDht\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 46,
+                        "endOffset": 98
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 102,
+                    "endColumn": 46,
+                    "endOffset": 144
+                },
+                "from": {
+                    "file": "C:\\Users\\Yashodhan\\AndroidStudioProjects\\SimpleDht\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 201,
+                        "endColumn": 46,
+                        "endOffset": 243
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 149,
+                    "endColumn": 46,
+                    "endOffset": 191
+                },
+                "from": {
+                    "file": "C:\\Users\\Yashodhan\\AndroidStudioProjects\\SimpleDht\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 154,
+                        "endColumn": 46,
+                        "endOffset": 196
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 196,
+                    "endColumn": 44,
+                    "endOffset": 236
+                },
+                "from": {
+                    "file": "C:\\Users\\Yashodhan\\AndroidStudioProjects\\SimpleDht\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 248,
+                        "endColumn": 44,
+                        "endOffset": 288
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 241,
+                    "endColumn": 50,
+                    "endOffset": 287
+                },
+                "from": {
+                    "file": "C:\\Users\\Yashodhan\\AndroidStudioProjects\\SimpleDht\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 103,
+                        "endColumn": 50,
+                        "endOffset": 149
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 292,
+                    "endLine": 13,
+                    "endColumn": 12,
+                    "endOffset": 578
+                },
+                "from": {
+                    "file": "C:\\Users\\Yashodhan\\AndroidStudioProjects\\SimpleDht\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 186,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 472
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 583,
+                    "endLine": 16,
+                    "endColumn": 12,
+                    "endOffset": 738
+                },
+                "from": {
+                    "file": "C:\\Users\\Yashodhan\\AndroidStudioProjects\\SimpleDht\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 510,
+                        "endLine": 17,
+                        "endColumn": 12,
+                        "endOffset": 665
+                    }
+                }
+            }
+        ]
+    }
+]
